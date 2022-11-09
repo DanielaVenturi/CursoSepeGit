@@ -22,19 +22,20 @@ h1 {
 
 .event {
     width: 550px;
-    border-radius: 10px;
     margin: 2.5% 2.5% 2.5% 2.5%;
-    background-color: rgb(225, 225, 225);
+    background-color: black
 }
 .event-title {
     font-size: 18px;
     text-align: center;
     height: 5%;
+    color: white;
 }
 .event-info {
     width: 100%;
     height: 60%;
     display: flex;
+    color: white;
 }
 
 .image {
