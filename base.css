@@ -2,18 +2,18 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: hsla(282, 58%, 47%, 1);
-    background: linear-gradient(90deg, hsla(282, 58%, 47%, 1) 0%, hsla(210, 80%, 29%, 1) 100%);
+    background: rgb(189, 50, 94);
+    background: linear-gradient(90deg, rgb(250, 80, 123) 0%, rgb(250, 43, 157) 100%);
 }
 
 h1 {
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 35px;
 }
 
 .events {
     width: 80%;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(240, 11, 80, 0.6);
     border-radius: 15px;
     display: flex;
     justify-content: space-around;
@@ -24,7 +24,7 @@ h1 {
     width: 550px;
     border-radius: 10px;
     margin: 2.5% 2.5% 2.5% 2.5%;
-    background-color: rgb(225, 225, 225);
+    background-color: rgba(240, 11, 11, 0.517);
 }
 .event-title {
     font-size: 18px;
